@@ -13,6 +13,6 @@ public class Main {
     }
 
    static int multipication(int x,int y){
-        return x-y;
+        return x*y;
    }
 }
